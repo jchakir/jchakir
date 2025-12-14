@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Software Engineer & Student @ 1337, focused on Deep Learning, Transformers & RL. My passion is deconstructing algorithms and exploring the frontiers of Policy Optimization and Transformer Architectures.<br><br>While others end on import torch, my journey begins with the tensor math behind the abstraction.<br><br>Core Disciplines<br><br>    Math-First Architecture: Prioritizing the underlying mathematics over high-level APIs.<br><br>    Low-Level Design: Understanding struct layouts and memory management.</p>
+<p align="left">Software Engineer & Student @ 1337, focused on Deep Learning, Transformers & RL. My passion is deconstructing algorithms and exploring the frontiers of Policy Optimization and Transformer Architectures.<br><br>While others end on import torch, my journey begins with the tensor math behind the abstraction.<br><br>Core Disciplines:<br><br> - Math-First Architecture: Prioritizing the underlying mathematics over high-level APIs.<br><br> - Low-Level Design: Understanding struct layouts and memory management.</p>
 
 ###
 
